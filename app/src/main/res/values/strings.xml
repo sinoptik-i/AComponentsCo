@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AComponentsCo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="text_btn_contacts">Контакты</string>
+    <string name="text_btn_music">Музыка</string>
+    <string name="text_tv_contacts">Контакты:</string>
+    <string name="notification_title">MyTitle</string>
+    <string name="notification_message">MyMessage</string>
+    <string name="ticker_text">MyTickerText</string>
+    <string name="text_btn_vacant">Свободная кнопка</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageButton
+            android:id="@+id/ibtn_prev"
+            style="@style/ibtn_style"
+            android:src="@drawable/ic_prev_foreground" />
+
+        <ImageButton
+            android:id="@+id/ibtn_play_stop"
+            style="@style/ibtn_style"
+            android:src="@drawable/ic_play_foreground" />
+
+        <ImageButton
+            android:id="@+id/ibtn_next"
+            style="@style/ibtn_style"
+            android:src="@drawable/ic_next_foreground" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
